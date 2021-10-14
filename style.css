@@ -1,0 +1,10 @@
+img {
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+    height: 150px;
+  }
+.jogger {
+    width:400px;
+    height:250px;
+}
