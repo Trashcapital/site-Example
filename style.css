@@ -8,9 +8,9 @@ body {
   background-color: #1f2937;
   font-size: 24px;
   color: #f9faf8;
-  flex-direction: row;
   justify-content: space-around; 
-  padding-top: 30px;
+  padding-top: 10px;
+  align-items: center;
   
 }
 ul   {
@@ -36,6 +36,7 @@ a {
   font-weight: bolder;
   color: #f9faf8;
   background-color: #1f2937;
+  flex-direction: column;
 }
 .subheader {
   display: flex;
